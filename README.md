@@ -1,2 +1,2 @@
-# Projects
-Курсовые (и не только) проекты
+# Course Projects
+
