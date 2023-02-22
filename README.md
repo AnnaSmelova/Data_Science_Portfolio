@@ -12,47 +12,47 @@
       **Стек**: `Scala`, `linear regression`
 
 3. <a href='https://github.com/AnnaSmelova/RL'>Домашние задания по курсу **Advanced DL and RL**</a><br>
-    1.1. <a href='https://github.com/AnnaSmelova/Advanced_DL_and_RL/blob/main/hw1/HW1_ASmelova.ipynb'>BlackJack</a><br>
+    3.1. <a href='https://github.com/AnnaSmelova/Advanced_DL_and_RL/blob/main/hw1/HW1_ASmelova.ipynb'>BlackJack</a><br>
       **Цель проекта**:
       Обучить агентов для игры в BlackJack.<br>
       **Стек**: `reinforcement learning`, `Q-learning`, `gym`
       
-    1.2. <a href='https://github.com/AnnaSmelova/Advanced_DL_and_RL/blob/main/hw2/HW2_ASmelova.ipynb'>TicTacToe</a><br>
+    3.2. <a href='https://github.com/AnnaSmelova/Advanced_DL_and_RL/blob/main/hw2/HW2_ASmelova.ipynb'>TicTacToe</a><br>
       **Цель проекта**:
       Обучить агентов для игры в Крестики-Нолики.<br>
       **Стек**: `reinforcement learning`, `Q-learning`, `DQN`, `gym`, `MCTS`
       
-    1.3. <a href='https://nbviewer.org/github/AnnaSmelova/Advanced_DL_and_RL/blob/main/hw3/HW3_ASmelova.ipynb'>Pix2pix and CycleGAN</a><br>
+    3.3. <a href='https://nbviewer.org/github/AnnaSmelova/Advanced_DL_and_RL/blob/main/hw3/HW3_ASmelova.ipynb'>Pix2pix and CycleGAN</a><br>
       **Цель проекта**:
       Перенос стиля на спаренных данных (paired data) и реализация базовой конструкции CycleGAN для unpaired style transfer.<br>
       **Стек**: `torch`, `style transfer`, `generative models`
 
 4. <a href='https://github.com/AnnaSmelova/RL'>Домашние задания по курсу **Reinforcement Learning**</a><br>
-    1.1. <a href='https://github.com/AnnaSmelova/RL/tree/main/hw01_lunar_lander'>Lunar Lander with **DQN**</a><br>
+    4.1. <a href='https://github.com/AnnaSmelova/RL/tree/main/hw01_lunar_lander'>Lunar Lander with **DQN**</a><br>
       **Цель проекта**:
       Необходимо научить агента побеждать в игре LunarLander при помощи метода DQN или одной из его модификаций.<br>
       **Стек**: `reinforcement learning`, `DQN`, `gym`, `torch`, `numpy`
       
-    1.2. <a href='https://github.com/AnnaSmelova/RL/tree/main/hw02_walker2d'>Walker2D with **Policy Gradient**</a><br>
+    4.2. <a href='https://github.com/AnnaSmelova/RL/tree/main/hw02_walker2d'>Walker2D with **Policy Gradient**</a><br>
       **Цель проекта**:
       Необходимо обучить агента побеждать в игре Walker2D при помощи Actor-Critic, A2C, TRPO или PPO. Для решения задачи можно трансформировать состояние и награду среды.<br>
       **Стек**: `reinforcement learning`, `PPO`, `gym`, `torch`, `numpy`, `pybullet_envs`
       
-    1.3. <a href='https://github.com/AnnaSmelova/RL/tree/main/hw03_ant'>Ant with **Deterministic Policy Gradient**</a><br>
+    4.3. <a href='https://github.com/AnnaSmelova/RL/tree/main/hw03_ant'>Ant with **Deterministic Policy Gradient**</a><br>
       **Цель проекта**:
       Необходимо обучить агента побеждать в игре Ant при помощи DDPG, TD3 или SAC. Для решения задачи можно трансформировать состояние и награду среды.<br>
       **Стек**: `reinforcement learning`, `TD3`, `gym`, `torch`, `numpy`, `pybullet_envs`
 
 5. <a href='https://github.com/AnnaSmelova/Projects/tree/main/Data_analysis_algorithms_course_projects'>Курсовые проекты по курсу **Алгоритмы анализа данных**</a>
 
-    1.1. <a href='https://github.com/AnnaSmelova/Data_Science_Portfolio/blob/main/Data_analysis_algorithms_course_projects/Regression_project/CourseProject_Regression.ipynb'>**Regression. Tutors - expected math exam results**</a><br>
+    5.1. <a href='https://github.com/AnnaSmelova/Data_Science_Portfolio/blob/main/Data_analysis_algorithms_course_projects/Regression_project/CourseProject_Regression.ipynb'>**Regression. Tutors - expected math exam results**</a><br>
       **Цель проекта**:
       Предсказать средний балл на экзамене по математике, который получают ученики репетиторов из датасета.<br>
       **Ограничения**:
       Нельзя использовать библиотеки с уже реализованными моделями. **Все алгоритмы машинного обучения реализуются вручную.**<br>
       **Стек**: `EDA`, `outliers handling`, `missings handling`, `feature engineering`, `clusterization`, `scaling`, `cross-validation`, `linear regression`, `stochastic gradient descent`, `StochasticGradientBoosting`, `regularization`, `random forest`
       
-    1.2. <a href='https://github.com/AnnaSmelova/Projects/blob/main/Data_analysis_algorithms_course_projects/Classification_project/CourseProject_Classification_LogisticRegression_proba.ipynb'>**Classification. Choose tutors (Part 1: Logistic Regression)**</a><br>
+    5.2. <a href='https://github.com/AnnaSmelova/Projects/blob/main/Data_analysis_algorithms_course_projects/Classification_project/CourseProject_Classification_LogisticRegression_proba.ipynb'>**Classification. Choose tutors (Part 1: Logistic Regression)**</a><br>
     <a href='https://github.com/AnnaSmelova/Projects/blob/main/Data_analysis_algorithms_course_projects/Classification_project/CourseProject_Classification_Adaboost_proba.ipynb'>**Classification. Choose tutors (Part 2: Adaboost)**</a><br>
       **Цель проекта**:
       Предсказать вероятность того, подойдет ли репетитор для подготовки к экзамену по математике.<br>
