@@ -45,7 +45,7 @@
 
 5. <a href='https://github.com/AnnaSmelova/Projects/tree/main/Data_analysis_algorithms_course_projects'>Курсовые проекты по курсу **Алгоритмы анализа данных**</a>
 
-    1.1. <a href='https://github.com/AnnaSmelova/Projects/tree/main/Data_analysis_algorithms_course_projects'>**Regression. Tutors - expected math exam results**</a><br>
+    1.1. <a href='https://github.com/AnnaSmelova/Data_Science_Portfolio/blob/main/Data_analysis_algorithms_course_projects/Regression_project/CourseProject_Regression.ipynb'>**Regression. Tutors - expected math exam results**</a><br>
       **Цель проекта**:
       Предсказать средний балл на экзамене по математике, который получают ученики репетиторов из датасета.<br>
       **Ограничения**:
